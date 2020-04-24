@@ -1,0 +1,9 @@
+C:\Users\Danydf\Desktop\Catlogo\Catlogo\obj\Debug\Catalogo.csprojAssemblyReference.cache
+C:\Users\Danydf\Desktop\Catlogo\Catlogo\obj\Debug\Catlogo.Form1.resources
+C:\Users\Danydf\Desktop\Catlogo\Catlogo\obj\Debug\Catlogo.frmAgregar.resources
+C:\Users\Danydf\Desktop\Catlogo\Catlogo\obj\Debug\Catlogo.Properties.Resources.resources
+C:\Users\Danydf\Desktop\Catlogo\Catlogo\obj\Debug\Catalogo.csproj.GenerateResource.cache
+C:\Users\Danydf\Desktop\Catlogo\Catlogo\obj\Debug\Catalogo.csproj.CoreCompileInputs.cache
+C:\Users\Danydf\Desktop\Catlogo\Catlogo\obj\Debug\Catlogo.exe
+C:\Users\Danydf\Desktop\Catlogo\Catlogo\obj\Debug\Catlogo.pdb
+C:\Users\Danydf\Desktop\Catlogo\Catlogo\obj\Debug\Catalogo.Form1.resources
